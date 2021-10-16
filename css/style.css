@@ -131,8 +131,9 @@ ul {
 /* JUMBOTRON */
 .jumbotron {
     position: relative;
-    background-image: url("../img/jumbo.png");
-    background-size: cover ;
+    background-image: url(../img/jumbo.png);
+    
+    background-size: cover;
     text-align: center;
     padding: 170px 0;
 }
